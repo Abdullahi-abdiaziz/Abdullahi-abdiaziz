@@ -1,7 +1,7 @@
-<span align="right" width="500">[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQFsQunSPDVAwQ/profile-displaybackgroundimage-shrink_350_1400/0/1647569677969?e=1672272000&v=beta&t=RvPDsGs4z88j0ita64zQgUzc4ekOfzLCdknQKm0iBK8)]</span>
+<span align="right" width="500">![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQFsQunSPDVAwQ/profile-displaybackgroundimage-shrink_350_1400/0/1647569677969?e=1672272000&v=beta&t=RvPDsGs4z88j0ita64zQgUzc4ekOfzLCdknQKm0iBK8)</span>
 <h1 align="center">Hi 👋, I'm Abdullahi Abdiaziz</h1>
 <h3 align="center">A passionate frontend developer from Somalia</h3>
-<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="coding" width="150" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahi-abdiaziz&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahi-abdiaziz" /> </p>
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/abdullahi-adiaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdullahi-adiaziz" height="30" width="40" /></a>
-<a href="https://twitter.com/apdallh_abdaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apdallh_abdaziz" height="30" width="40" /></a>
+<a href="https://twitter.com/apdallh_abdaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apdllh_abdaziz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/abdullahi-abdiaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdullahi-abdiaziz" height="30" width="40" /></a>
 <a href="https://codesandbox.com/abdullahi-abdiaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abdullahi-abdiaziz" height="30" width="40" /></a>
 <a href="https://fb.com/abdullahiabdiazizyusuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullahiabdiazizyusuf" height="30" width="40" /></a>

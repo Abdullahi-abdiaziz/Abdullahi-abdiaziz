@@ -1,4 +1,4 @@
-<span align="right" width="500">![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQFsQunSPDVAwQ/profile-displaybackgroundimage-shrink_350_1400/0/1647569677969?e=1672272000&v=beta&t=RvPDsGs4z88j0ita64zQgUzc4ekOfzLCdknQKm0iBK8)</span>
+<a href="https://app.daily.dev/abdellah"><img src="https://api.daily.dev/devcards/v2/fuk7NGIUFsrnFCKezL6y9.png?r=kqj&type=wide" width="652" alt="Abdullahi Abdiaziz yusuf's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Abdullahi Abdiaziz</h1>
 <h3 align="center">A passionate frontend developer from Somalia</h3>
 <img align="right" alt="coding" width="150" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />

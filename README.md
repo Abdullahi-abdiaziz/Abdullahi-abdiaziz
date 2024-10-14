@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on **full-
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **Blog with Notion as CMS** using **Next.js**,**Notion**, **Prisma**, **Zod**, and **React Hook Form**.
-- 🌱 I’m learning **ethical hacking** and **advanced programming languages**.
+- 🌱 I’m learning **Backend Development** and **advanced programming languages**.
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abdallh-portfolio.onrender.com/)
 - 💬 Ask me about **React**, **Next.js**, **JavaScript**, and **full-stack development**.
 - 📫 How to reach me: **[Your Email](mailto:aboody.official.me@gmail.com)** or find me on **[LinkedIn](https://www.linkedin.com/in/abdullahi-abdiaziz)**.
